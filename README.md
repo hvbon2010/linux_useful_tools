@@ -16,6 +16,10 @@ https://github.com/fossfreedom/indicator-sysmonitor
 
 https://www.geeksforgeeks.org/how-to-control-screen-brightness-in-ubuntu-22-04/
 
+![image](https://github.com/hvbon2010/linux_useful_tools/assets/32226325/59a1bee5-f781-46d5-a321-a357e5a1616c)
+
 - For the external monitor which support the ddc/ci mode (effect on the internal brightness monitor setting menu)
 
 https://github.com/ddccontrol/ddccontrol
+
+![image](https://github.com/hvbon2010/linux_useful_tools/assets/32226325/44fe34c5-951b-489e-9b10-cefabbbe6fa3)
