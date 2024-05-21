@@ -10,3 +10,6 @@ nmtui-connect
 
 # Resources monitor
 https://github.com/fossfreedom/indicator-sysmonitor
+
+# Monitor brightness changing
+https://www.geeksforgeeks.org/how-to-control-screen-brightness-in-ubuntu-22-04/
