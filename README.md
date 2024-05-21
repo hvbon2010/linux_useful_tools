@@ -11,5 +11,11 @@ nmtui-connect
 # Resources monitor
 https://github.com/fossfreedom/indicator-sysmonitor
 
-# Monitor brightness changing
+# Monitor brightness changing 
+- For all external monitors (include the none ddc/ci mode monitor)
+
 https://www.geeksforgeeks.org/how-to-control-screen-brightness-in-ubuntu-22-04/
+
+- For the external monitor which support the ddc/ci mode (effect on the internal brightness monitor setting menu)
+
+https://github.com/ddccontrol/ddccontrol
