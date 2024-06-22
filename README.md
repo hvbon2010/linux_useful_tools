@@ -23,3 +23,8 @@ https://www.geeksforgeeks.org/how-to-control-screen-brightness-in-ubuntu-22-04/
 https://github.com/ddccontrol/ddccontrol
 
 ![image](https://github.com/hvbon2010/linux_useful_tools/assets/32226325/44fe34c5-951b-489e-9b10-cefabbbe6fa3)
+
+# Memory rgb led control
+https://openrgb.org/#downloads
+
+![image](https://github.com/hvbon2010/linux_useful_tools/assets/32226325/9109bec4-37ae-4c41-8273-2bf12bd1d192)
